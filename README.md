@@ -3,3 +3,4 @@ PythonとOpenCVを用いてカメラから取得した映像に対し, バーを
 youtubeに動作の様子を確認できる動画をアップロードした．
 URL: https://youtu.be/wh_Tk8OIbF0
 
+![youtube](https://github.com/NewAccountFM/capture/blob/master/movie.jpg)
